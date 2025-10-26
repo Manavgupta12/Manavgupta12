@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavgupta12" alt="manavgupta12" /></a> </p>
 
-- 🔭 I’m currently working on [Marksense]((https://github.com/Manavgupta12/Marksense.git)
+- 🔭 I’m currently working on [Marksense](https://github.com/Manavgupta12/Marksense.git)
 
 - 🌱 I’m currently learning **Deep Learning**
 
